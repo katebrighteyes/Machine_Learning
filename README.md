@@ -15,6 +15,7 @@ drive.mount('/content/gdrive')
 cd /content/gdrive/MyDrive/MlClass
 
 5. 깃헙 다운로드
+
 !git clone https://github.com/rickiepark/introduction_to_ml_with_python
 
 
@@ -28,4 +29,4 @@ pip install numpy scipy scikit-learn matplotlib pandas pillow graphviz
 
 7. 구글 드라이브에서 예제 파일을 오른 클릭하여 코랩에서 열기
 
-8. 복사해서 실행하면서 실습 진행
+8. 수업들으면서 하나씩 복사해서 실행하면서 실습 진행
