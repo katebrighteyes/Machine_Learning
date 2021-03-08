@@ -80,9 +80,8 @@ drive.mount('/content/gdrive')
 
 3 구글 드라이브로 이동
 
-cd /content/gdrive/MyDrive/MlClass
+cd /content/gdrive/MyDrive/MlClass/introduction_to_ml_with_python/
 
-cd introduction_to_ml_with_python/
 
 ls
 
