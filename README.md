@@ -1,5 +1,8 @@
 # Machine_Learning
 
+https://fliphtml5.com/hkuy/lcvv/basic
+
+
 # 1. 기계학습 파이썬, 실제 예제분류, 지도학습
 
 교과서 중 수업 범위 : ~98 page, 134~145
