@@ -1,6 +1,7 @@
 # Machine_Learning
 
 https://fliphtml5.com/hkuy/lcvv/basic
+https://fliphtml5.com/hkuy/bdgq
 
 
 # 1. 기계학습 파이썬, 실제 예제분류, 지도학습
@@ -11,9 +12,11 @@ https://fliphtml5.com/hkuy/lcvv/basic
 
 1. 구글 드라이브에 MlClass 라는 폴더 만들기 
 
-2. 구글 코랩 실행
+2. 구글 코랩 실행, 
 
-실행하자마자 한글 표시 기능 설치
+File메뉴에서 rename 을 이용해서 chap1.ipynb 으로 이름 변경
+
+바로 한글 표시 기능 설치
 
 !sudo apt-get install -y fonts-nanum
 
@@ -65,7 +68,9 @@ from preamble import *
 
 1. 새 노트북 실행
 
-실행하자마자 한글 표시 기능 설치
+File메뉴에서 rename 을 이용해서 chap2.ipynb 으로 이름 변경
+
+바로 한글 표시 기능 설치치
 
 !sudo apt-get install -y fonts-nanum
 
