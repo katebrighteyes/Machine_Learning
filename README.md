@@ -6,7 +6,7 @@ https://fliphtml5.com/hkuy/bdgq
 
 # 1. 기계학습 파이썬, 실제 예제분류, 지도학습
 
-교과서 중 수업 범위 : ~98 page, 134~145
+교과서 중 수업 범위 : 121 page
 
 # Chapter 1 
 
