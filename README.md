@@ -27,6 +27,7 @@ File메뉴에서 rename 을 이용해서 chap1.ipynb 으로 이름 변경
 런타임 메뉴에서 런타임 다시 시작 선택
 
 
+
 3. 코드로 다음을 실행하여 구글 드라이브 연결
 
 from google.colab import drive
@@ -106,7 +107,16 @@ from preamble import *
 7. 수업들으면서 하나씩 복사해서 실행하면서 실습 진행
 
 ------------------------------------
-## 2일차는 분류에 대한 선형 모델 부터 시작 (86페이지)
+## 
+
+[참고 사이트]
+
+Distance Formula : http://hleecaster.com/ml-distance-formula/
+
+Logistic Regression : https://eunsukimme.github.io/ml/2019/10/22/Logistic-Regression/
+
+서포트 벡터 머신 : http://hleecaster.com/ml-svm-concept/
+
 ============================================
 
 # 2. 비지도 학습과 데이터 전처리
